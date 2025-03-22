@@ -68,9 +68,3 @@ npm run format
 - **Optimized with Vite** for fast development
 - **Styled using CSS/Tailwind**
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-Happy Coding! 🚀
-
